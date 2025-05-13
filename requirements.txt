@@ -1,0 +1,1 @@
+#Akıllı Görev Takip Asistanı için herhangi bir özel kütüphane gerekmez.
